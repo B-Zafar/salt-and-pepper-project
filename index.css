@@ -1,0 +1,29 @@
+.imgg{width: 8rem;}
+.franchise{background-color: transparent;
+border: 1px solid #ffffff;
+color: #ffffff;
+padding: 15px 20px;
+border-radius: 20px;
+font-size: 1rem;
+cursor: pointer;}
+.order{background-color: #ff0000;
+    color: #ffffff;
+    padding: 15px 30px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+.no{color: #ffffff;text-decoration: none;}
+.img1{width: 79rem;}
+.rest{background-color: #ffffff;}
+.brandbutn{border: 1px solid white;
+     background-color:transparent;
+color: white;
+padding: 15px 30px;
+border-radius: 20px;
+cursor: pointer;}
+
+
+.city{color: #ff0000 ;letter-spacing: 8px;font-size: 16px;font-family:}
+.inline{display: inline;}
+.express{font-size: 52px;}
+.expressbranch{font-size: 48px;}
