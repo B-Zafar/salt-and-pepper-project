@@ -30,9 +30,18 @@ cursor: pointer;}
 
 
 
-.franchiseparent{margin-top:10PX ;width: 400px;;border: 1px solid red;text-align: center;}
+.franchiseparent{margin-top:10PX ;width: 400px;;border: 1px solid transparent;text-align: center;}
 .child1{width: 300px;height: 214px;}
 .child2{color: red;letter-spacing: 3px;}
 .m11{margin-left: 427px;}
 
+.heading{font-size: 52px;text-align: center;margin-top: 20px;}
+.subheading{font-size: 48px;text-align: center;}
+.container{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;}
+    
+    .left{height: 400px;width: 650px;}
 
